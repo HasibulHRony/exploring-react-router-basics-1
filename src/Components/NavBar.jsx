@@ -40,7 +40,7 @@ export default function NavBar() {
         <nav className='flex justify-between m-6'>
             <div className='flex'>
                 <span className='md:hidden' onClick={() => { setOpen(!open) }}>{open ? <FaWindowClose /> : <IoMenuSharp />}</span>
-                <ul className={`md:hidden ${open ? "flex" : "hidden"} flex flex-col`}>
+                <ul className={`md:hidden text-black absolute bg-amber-200 duration-1000 ${open ? "flex top-10" : "-top-40"} flex flex-col`}>
                     {
                         links
                     }
