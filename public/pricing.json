@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "planName": "Basic Fitness",
+    "duration": "1 Month",
+    "price": 1500,
+    "features": [
+      "Access to Gym Equipment",
+      "Locker Facility",
+      "Free WiFi",
+      "1 Fitness Assessment"
+    ]
+  },
+  {
+    "id": 2,
+    "planName": "Standard Fitness",
+    "duration": "3 Months",
+    "price": 4000,
+    "features": [
+      "Access to Gym Equipment",
+      "Locker Facility",
+      "Cardio + Strength Area",
+      "3 Fitness Assessments",
+      "Diet Chart Plan"
+    ]
+  },
+  {
+    "id": 3,
+    "planName": "Premium Fitness",
+    "duration": "6 Months",
+    "price": 7500,
+    "features": [
+      "All Standard Features",
+      "Personal Trainer (2 Sessions/Week)",
+      "Steam Bath",
+      "Group Classes (Yoga / Zumba)"
+    ]
+  },
+  {
+    "id": 4,
+    "planName": "Elite Transformation",
+    "duration": "12 Months",
+    "price": 14000,
+    "features": [
+      "All Premium Features",
+      "Unlimited Personal Training",
+      "Customized Diet Plan",
+      "Body Composition Tracking",
+      "Supplement Guidance"
+    ]
+  }
+]
